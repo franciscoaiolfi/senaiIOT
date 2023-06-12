@@ -1,0 +1,15 @@
+{
+    "variavel" : "valor",
+    "variavel2" : "valor",
+    "variavel3" : ["string1", "string2"],
+    "outro_json" : {
+        "atributo" : "a",
+        "atributo" : 21
+    }
+},
+
+
+{
+    "temperatura" : 18,
+    "umidade" : 76
+}

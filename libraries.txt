@@ -1,0 +1,13 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+# https://docs.wokwi.com/pt-BR/chips-api/i2c
+
+
+DHT sensor library for ESPx
+Adafruit SSD1306
+LiquidCrystal I2C
+ThingSpeak
+Adafruit Sensor Lab
+WiFi
+ThingESP
+PubSubClient
